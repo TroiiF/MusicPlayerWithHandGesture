@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+  MultiMediaPre.cpp
+d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(46): error C2440: “初始化”: 无法从“const wchar_t [32]”转换为“LPCSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(46): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(47): error C2440: “初始化”: 无法从“const wchar_t [32]”转换为“LPCSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(47): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(48): error C2440: “初始化”: 无法从“const wchar_t [32]”转换为“LPCSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(48): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(49): error C2440: “初始化”: 无法从“const wchar_t [32]”转换为“LPCSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(49): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(59): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“LPCSTR”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(59): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(60): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“LPCSTR”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(60): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(61): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“LPCSTR”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(61): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(62): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“LPCSTR”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(62): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(63): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [19]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(63): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(164): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [21]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(164): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(166): error C2664: “int atoi(const char *)”: 无法将参数 1 从“TCHAR [100]”转换为“const char *”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(166): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(169): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [29]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(169): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(174): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [21]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(174): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(176): error C2664: “int atoi(const char *)”: 无法将参数 1 从“TCHAR [100]”转换为“const char *”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(176): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(179): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [29]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(179): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(186): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [13]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(186): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(192): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [14]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(192): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(200): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [12]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(200): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(205): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 2 从“const char [19]”转换为“LPCWSTR”
+  d:\文件\mycppprograms\multimediademo\multimediapre\multimediapre\multimediapre.cpp(205): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
